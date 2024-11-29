@@ -25,3 +25,7 @@ Write the sketch: Load the written code onto the ESP32 using the Arduino IDE.
 OpenStreetMap Overpass API: integrate this API into the sketch
 Serial Monitor: Open the Serial Monitor at 115200 baud to observe GPS data and the fetched speed limits.
 LED Alert: If the car's speed exceeds the speed limit, the LED should light up
+
+Goal of this Project
+-Provide real-time alerts to drivers if their speed exceeds the legal speed limit for a given location.
+-Demonstrate the integration of IoT technologies (GPS, WiFi-enabled ESP32, and online APIs) to develop a practical and intelligent system for automotive applications.
